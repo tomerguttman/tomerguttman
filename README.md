@@ -1,4 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=tomerguttman)
+
+<div>
+  <img src="https://media.giphy.com/media/opAuQg3LS5EWY/giphy.gif"> 
+</div>
+
 ### Hi there 👋
 My name is Tomer Guttman and I'm a recent Computer Science graduate.
 I am currently looking for a full time position in the field of software development.
