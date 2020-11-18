@@ -2,7 +2,9 @@
 
 <img src="https://media.giphy.com/media/opAuQg3LS5EWY/giphy.gif" width="300" height="170" align="center"> 
 
-My name is Tomer Guttman and I'm a recent Computer Science graduate.
+### Hi there!
+
+My name is Tomer Guttman and I'm a recent Computer Science graduate.<br>
 I am currently looking for a full time position in the field of software development.
 
 <br>Skills:<br /> `Java` `JavaScript` `Python` `C` `C++` `C#` `CSS` `HTML` `Bootstrap` `Flask` `Vagrant` `Git` 
