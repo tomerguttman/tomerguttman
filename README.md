@@ -4,7 +4,7 @@
 
 ### Hi there!
 
-My name is Tomer Guttman, I'm Computer Science graduate and a software developer.<br>
+My name is Tomer Guttman. I'm a Backend Engineer :).<br>
 I love sharing knowledge, and learn new technologies... let me know of any open-source adventures I should look into :)
 
 <br>Skills:<br /> `Java` `JavaScript` `Python` `C` `C++` `C#` `CSS` `HTML` `Bootstrap` `Flask` `Vagrant` `Git`
