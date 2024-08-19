@@ -13,8 +13,5 @@ I love sharing knowledge, and learn new technologies... let me know of any open-
 **tomerguttman/tomerguttman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- - 💬 Ask me about ... -->
 
-
-- 🔭 Your'e welcome to see my `Java` based supermarket system named SDMarket check it out... [Here](https://github.com/tomerguttman/SDMarket)
-- 🌱 I’m currently learning `Node.js`, `Express` and `Vue.js`...
 - 📫 How to reach me: tomerguttman27@gmail.com or on [LinkedIn](https://www.linkedin.com/in/tomergut/)
 - ⚡ Fun fact: I used to play for a professional Counter Strike team (FPS Game) and we had sponsers like ESET, ASUS etc...
