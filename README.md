@@ -7,7 +7,7 @@
 My name is Tomer Guttman. I'm a Backend Engineer :).<br>
 I love sharing knowledge, and learn new technologies... let me know of any open-source adventures I should look into :)
 
-<br>Skills:<br /> `Java` `JavaScript` `Python` `C` `C++` `C#` `CSS` `HTML` `Bootstrap` `Flask` `Vagrant` `Git`
+<br>Skills:<br /> `TypeScript` `JavaScript` `Elasticsearch` `Debezium` `Kafka` `Cassandra` `Micro-services` `React` `MySQL`
 
 <!--
 **tomerguttman/tomerguttman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
