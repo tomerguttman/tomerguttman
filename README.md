@@ -2,16 +2,21 @@
 
 <img src="https://media.giphy.com/media/opAuQg3LS5EWY/giphy.gif" width="300" height="170" align="center"> 
 
-### Hi there!
+Hi there!
 
-My name is Tomer Guttman. I'm a Backend Engineer :).<br>
-I love sharing knowledge, and learn new technologies... let me know of any open-source adventures I should look into :)
+I'm Tomer, a Backend/ SRE engineer.
 
-<br>Skills:<br /> `TypeScript` `JavaScript` `Elasticsearch` `Debezium` `Kafka` `Cassandra` `Micro-services` `React` `MySQL`
+I love sharing knowledge, and diving into new technologies. Let me know if there are any open-source adventures you'd recommend!
 
-<!--
-**tomerguttman/tomerguttman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!-- - 💬 Ask me about ... -->
+### Skills:
+- Programming Languages: `TypeScript`, `JavaScript`
+- Infrastructure & Reliability: `Kubernetes`, `Docker`, `Prometheus`, `Grafana`, `FluentBit`
+- Data & Streaming: `Kafka`, `Elasticsearch`, `Cassandra`, `Debezium`, `MySQL`, `Snowflake`
+- Frontend: a bit of `React`
 
-- 📫 How to reach me: tomerguttman27@gmail.com or on [LinkedIn](https://www.linkedin.com/in/tomergut/)
-- ⚡ Fun fact: I used to play for a professional Counter Strike team (FPS Game) and we had sponsers like ESET, ASUS etc...
+### 📫 How to Reach Me:
+- Email: tomerguttman27@gmail.com
+- LinkedIn: [here](https://www.linkedin.com/in/tomergut/)
+
+### ⚡ Fun Fact:
+> I used to play for a professional Counter-Strike team (FPS Game), with sponsors like ESET, ASUS, and more!"
