@@ -1,22 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=tomerguttman)
 
-<img src="https://media.giphy.com/media/opAuQg3LS5EWY/giphy.gif" width="300" height="170" align="center"> 
+# Hey! I'm Tomer 👋
 
-Hi there!
+I'm a backend and site reliability engineer, wrangling technologies like TypeScript, Kubernetes, Docker, Prometheus, Grafana, and more on a daily basis. I've also spent plenty of time in the world of data and streaming, working with Kafka, Elasticsearch, Cassandra, Debezium, MySQL, and Snowflake. While my main focus is backend and infrastructure, I also know a bit of frontend kung-fu — just enough React to occasionally punch out a UI when needed. 🥋
 
-I'm Tomer, a Backend/ SRE engineer.
-
-I love sharing knowledge, and diving into new technologies. Let me know if there are any open-source adventures you'd recommend!
-
-### Skills:
-- Programming Languages: `TypeScript`, `JavaScript`
-- Infrastructure & Reliability: `Kubernetes`, `Docker`, `Prometheus`, `Grafana`, `FluentBit`
-- Data & Streaming: `Kafka`, `Elasticsearch`, `Cassandra`, `Debezium`, `MySQL`, `Snowflake`
-- Frontend: a bit of `React`
-
-### 📫 How to Reach Me:
-- Email: tomerguttman27@gmail.com
-- LinkedIn: [here](https://www.linkedin.com/in/tomergut/)
-
-### ⚡ Fun Fact:
-> I used to play for a professional Counter-Strike team (FPS Game), with sponsors like ESET, ASUS, and more!"
+### 📫 Let's Connect:
+- 📧 Email: tomerguttman27@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tomergut/)
